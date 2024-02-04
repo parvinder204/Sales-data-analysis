@@ -15,3 +15,8 @@ In this project, you will dive into a large sales dataset to extract valuable in
 * Excel Formulas
 * Data Visualization
 * PowerBI Desktop
+
+
+FINAL OUTPUT:
+
+![Screenshot 2024-02-05 014842](https://github.com/parvinder204/Sales-data-analysis/assets/158289732/2fa7034f-8f9d-4c0a-b92f-c73259f59e5d)
