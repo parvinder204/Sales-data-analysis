@@ -14,3 +14,4 @@ In this project, you will dive into a large sales dataset to extract valuable in
 * Data Cleaning
 * Excel Formulas
 * Data Visualization
+* PowerBI Desktop
